@@ -1,3 +1,9 @@
-.main-title {
+@import url('https://fonts.googleapis.com/css2?family=Amarante&display=swap');
+
+h1, h2, h3 {
     font-family: 'Amarante', cursive;
+}
+
+.main-title {
+    text-align: center;
 }
