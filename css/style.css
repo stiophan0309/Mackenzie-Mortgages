@@ -6,4 +6,19 @@ h1, h2, h3 {
 
 .main-title {
     text-align: center;
+    color: #1761a0;
+}
+
+.title {
+    margin: 20px;
+}
+
+.navigation {
+    margin: 20px 20px 0px 20px;
+}
+
+.content {
+    margin: 0px 20px 20px 20px;
+    border: 1px solid #1761a0;
+    padding: 20px;
 }
