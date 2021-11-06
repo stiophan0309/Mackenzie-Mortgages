@@ -23,9 +23,18 @@ h1, h2, h3 {
 .nav1 {
     padding: 0px;
 }
+.nav-link {
+    border: 1px solid #1761a0;
+
+}
 
 .content {
     margin: 0px 20px 20px 20px;
     border: 1px solid #1761a0;
     padding: 20px;
+}
+
+.main, .side {
+    padding: 20px;
+    border: 1px solid #1761a0;
 }
