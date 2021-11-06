@@ -25,7 +25,9 @@ h1, h2, h3 {
 }
 .nav-link {
     border: 1px solid #1761a0;
-
+}
+.mobile {
+    margin: 10px 0px 0px 0px;
 }
 
 .content {
@@ -36,5 +38,9 @@ h1, h2, h3 {
 
 .main, .side {
     padding: 20px;
+}
+.inner {
+    padding: 20px;
     border: 1px solid #1761a0;
+    height: 100%;
 }
