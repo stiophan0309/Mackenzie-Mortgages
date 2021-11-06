@@ -2,11 +2,12 @@
 
 h1, h2, h3 {
     font-family: 'Amarante', cursive;
+    color: #1761a0;
 }
 
 .main-title {
     text-align: center;
-    color: #1761a0;
+    font-size: 3em;
 }
 
 .title {
@@ -15,6 +16,12 @@ h1, h2, h3 {
 
 .navigation {
     margin: 20px 20px 0px 20px;
+}
+.navbar {
+    padding: 0px;
+}
+.nav1 {
+    padding: 0px;
 }
 
 .content {
