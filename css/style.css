@@ -1,8 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Amarante&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amarante&family=Exo+2&display=swap');
 
 h1, h2, h3 {
     font-family: 'Amarante', cursive;
     color: #1761a0;
+}
+
+p, span, a {
+    font-family: 'Exo 2', sans-serif;
 }
 
 .main-title {
