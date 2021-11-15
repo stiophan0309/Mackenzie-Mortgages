@@ -60,3 +60,7 @@ p, span, a {
     border: 1px solid #1761a0;
     height: 100%;
 }
+
+.footer {
+    padding: 20px;
+}
