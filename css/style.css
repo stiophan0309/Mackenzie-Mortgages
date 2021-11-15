@@ -22,9 +22,11 @@ p, span, a {
     margin: 20px;
 }
  .covid {
+     margin-top: 10px;
      width: 100%;
      border: 2px solid #ff0000;
      padding: 10px;
+     font-size: 1.25em;
  }
  .covid-title {
      font-weight: bold;
@@ -41,6 +43,9 @@ p, span, a {
 }
 .nav-link {
     border: 1px solid #1761a0;
+}
+.tab {
+    font-size: 1.25em;
 }
 .mobile {
     margin: 10px 0px 0px 0px;
