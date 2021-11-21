@@ -44,9 +44,18 @@ p, span, a {
 .nav-link {
     border: 1px solid #1761a0;
 }
+a.nav-link:hover {
+    background-color: #1761a0;
+    color: #fff;
+    font-weight: bold;
+}
 .tab {
     font-size: 1.25em;
 }
+.active {
+    background-color: #1761a0;
+}
+
 .mobile {
     margin: 10px 0px 0px 0px;
 }
