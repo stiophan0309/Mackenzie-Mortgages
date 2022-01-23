@@ -59,7 +59,9 @@ a.nav-link:hover {
 .mobile {
     margin: 10px 0px 0px 0px;
 }
-
+.icon {
+    font-family: Arial, Helvetica, sans-serif !important;
+}
 .content {
     margin: 0px 20px 20px 20px;
     border: 1px solid #1761a0;
