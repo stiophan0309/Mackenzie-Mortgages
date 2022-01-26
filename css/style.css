@@ -79,7 +79,10 @@ a.nav-link:hover {
     border: 1px solid #1761a0;
     height: 100%;
 }
-
+.signature {
+    margin-top: 50px;
+    text-align: right;
+}
 .footer {
     padding: 20px;
 }
