@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Amarante&family=Exo+2&display=swap');
 
+i {
+    font-family: fontawesome;
+    font-style: normal;
+}
+
 body {
     font-size: 16px;
 }
@@ -85,6 +90,9 @@ a.nav-link:hover {
 }
 .bold {
     font-weight: bold;
+}
+.list {
+    width: 100%;
 }
 .awards {
     margin-bottom: 50px;
