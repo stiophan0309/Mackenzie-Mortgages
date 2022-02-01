@@ -83,6 +83,9 @@ a.nav-link:hover {
     margin-top: 50px;
     text-align: right;
 }
+.bold {
+    font-weight: bold;
+}
 .awards {
     margin-bottom: 50px;
 }
