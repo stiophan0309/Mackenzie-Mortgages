@@ -49,8 +49,13 @@ p, span, a {
 .nav-link {
     border: 1px solid #1761a0;
 }
-a.nav-link:hover {
+.nav-link:hover {
     background-color: #1761a0;
+    color: #fff;
+    font-weight: bold;
+}
+.nav-link.active:hover {
+    background-color: #4db620;
     color: #fff;
     font-weight: bold;
 }
