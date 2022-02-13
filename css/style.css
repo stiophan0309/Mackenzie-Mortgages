@@ -51,19 +51,20 @@ p, span, a {
 }
 .nav-link:hover {
     background-color: #1761a0;
-    color: #fff;
+    color: #fff !important;
     font-weight: bold;
+}
+.nav-link.active {
+    background-color: #1761a0;
+    color: #fff !important;
 }
 .nav-link.active:hover {
     background-color: #4db620;
-    color: #fff;
+    color: #000 !important;
     font-weight: bold;
 }
 .tab {
     font-size: 1.25em;
-}
-.active {
-    background-color: #1761a0;
 }
 
 .mobile {
