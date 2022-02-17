@@ -80,6 +80,7 @@ nav {
     background-color: #45a41e;
     color: #000 !important;
     font-weight: bold;
+    border: 1px solid #1761a0;
 }
 .tab {
     font-size: 1.25em;
@@ -90,7 +91,9 @@ nav {
 .tab-icon {
     font-size: 1.5em;
 }
-
+a.tab {
+    color: #1761a0 !important;
+}
 .mobile {
     margin: 10px 0px 0px 0px;
 }
