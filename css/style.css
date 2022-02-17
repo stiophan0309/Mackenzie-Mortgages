@@ -19,12 +19,25 @@ p, span, a {
 }
 
 .main-title {
-    text-align: center;
+    text-align: left;
     font-size: 3em;
+    float: left;
+    margin: 75px 0px 0px -60px;
 }
 
 .title {
     margin: 20px 20px 40px 20px;
+}
+.logo-container {
+    padding: 0px 10px 0px 0px;
+    margin: 0px;
+}
+.logo {
+    height: 150px;
+    width: auto;
+    float: right;
+    margin: 0;
+    padding: 0px 0px 0px 0px;
 }
  .covid {
      margin-top: 10px;
