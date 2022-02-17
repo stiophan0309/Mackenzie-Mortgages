@@ -106,6 +106,14 @@ a.tab {
 .icon {
     font-family: Arial, Helvetica, sans-serif !important;
 }
+.inner-container {
+    margin: 0;
+    padding: 0;
+    background-color: #1761a0;
+    border-radius: 10px 10px 10px 10px;
+    background-image: radial-gradient(#1761a0, #45a41e, #fff);
+    
+}
 .content {
     margin: 0px 20px 20px 20px;
     border: 1px solid #1761a0;
@@ -118,9 +126,12 @@ a.tab {
     padding: 20px;
 }
 .inner {
-    padding: 20px;
+    padding: 40px;
     border: 1px solid #1761a0;
     height: 100%;
+    background-color: #fff;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 6px 6px 18px 0px rgba(27,49,84,0.5)
 }
 .signature {
     margin-top: 50px;
@@ -137,6 +148,10 @@ a.tab {
 }
 .img200 {
     max-width: 200px;
+}
+.office {
+    box-shadow: 6px 6px 18px 0px rgba(27,49,84,0.5);
+
 }
 .footer {
     padding: 20px;
