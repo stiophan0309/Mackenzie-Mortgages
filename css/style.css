@@ -112,6 +112,7 @@ a.tab {
     background-color: #1761a0;
     border-radius: 10px 10px 10px 10px;
     background-image: radial-gradient(#1761a0, #45a41e, #fff);
+    box-shadow: inset 0 0 10px #1761a0;
     
 }
 .content {
@@ -134,14 +135,26 @@ a.tab {
     box-shadow: 6px 6px 18px 0px rgba(27,49,84,0.5)
 }
 .signature {
-    margin-top: 50px;
+    margin: 50px 0px 50px 0px;
     text-align: right;
 }
 .bold {
     font-weight: bold;
 }
+.contact {
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: inset 9px 9px 24px #1761a0,
+            inset -9px -9px 24px #ffffff;
+    padding: 20px 0px 20px 0px;
+}
 .list {
     width: 100%;
+}
+.social {
+    margin: 0px 0px 0px 10px;
+}
+.twitter {
+    outline: none;
 }
 .awards {
     margin-bottom: 50px;
