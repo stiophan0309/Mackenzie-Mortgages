@@ -177,7 +177,7 @@ a.tab {
     text-align: center;
 }
 
-@media (min-width: 576px) { 
+@media (max-width: 767.98px) { 
     .main-title {
         margin: 20px 0px 0px -20px;
     }
