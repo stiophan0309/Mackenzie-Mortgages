@@ -95,7 +95,10 @@ a.tab {
     color: #1761a0 !important;
 }
 .mobile {
-    margin: 10px 0px 0px 0px;
+    margin: 10px 0px 10px 0px;
+}
+.mobile:hover {
+    background-color: #1761a0;
 }
 .st-container {
     margin: 20px 0px 30px 0px;
@@ -173,3 +176,23 @@ a.tab {
 .legal {
     text-align: center;
 }
+
+@media (min-width: 576px) { 
+    .main-title {
+        margin: 20px 0px 0px -20px;
+    }
+    .title {
+        margin: 20px 20px 20px 20px;
+    }
+    .tab, .content {
+        border-radius: 10px;
+    }
+    .nav-link {
+        margin: 0px 0px 10px 0px;
+   
+    }
+    .tab-icon {
+        margin: 0px 0px 0px 10px;
+    }
+ }
+
