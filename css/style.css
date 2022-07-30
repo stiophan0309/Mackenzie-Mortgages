@@ -146,6 +146,10 @@ a.tab {
     border-radius: 10px 10px 10px 10px;
     box-shadow: 6px 6px 18px 0px rgba(27,49,84,0.5)
 }
+.warning {
+    font-weight: bold;
+    font-size: 1.5em;
+}
 .signature {
     margin: 50px 0px 50px 0px;
     text-align: right;
