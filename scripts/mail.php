@@ -28,7 +28,7 @@ if(isset($_POST['email'])) {
         die();
 		
  
-    }
+    }q
   
  
     $name = $_POST['name']; // required
@@ -110,6 +110,7 @@ $headers = 'From: '.$email_from."\r\n".
  
  
 <h1>Thank you for your message!</h1> <h2>We will contact you as soon as possible.</h2>
+<a href="index.html"><button class="btn btn-primary"><i class="fas fa-home tab-icon"></i> Return to Home Page </button></a>
 
  
  
