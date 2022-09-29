@@ -1,6 +1,6 @@
 <?php 
 $errors = '';
-$myemail = 'steven.a.horne@btinternet.com';//<-----Put Your email address here.
+$myemail = 'helenm@helen-mackenzie.co.uk';//<-----Put Your email address here.
 if(empty($_POST['name'])  || 
    empty($_POST['email']) || 
    empty($_POST['message']))
@@ -45,7 +45,7 @@ if( empty($errors))
 <?php
 echo nl2br($errors);
 ?>
-
+<a href="index.html"><button class="btn btn-primary">Return to Home Page</button></a>
 
 </body>
 </html>
