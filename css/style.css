@@ -233,7 +233,7 @@ input[type=text],input[type=email], select, textarea {
     padding: 20px;
   }
   form {
-      margin: 50px 20px 20px 20px;
+      margin: 50px 20px 50px 20px;
   }
 
 /* End of Contact Form */
