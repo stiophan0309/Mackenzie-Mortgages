@@ -42,7 +42,7 @@ try {
 
     //Recipients
     $mail->setFrom('helenm@helen-mackenzie.co.uk', 'MacKenzie Mortgages');//This is the email your form sends From
-    $mail->addAddress('steven.a.horne@btinternet.com', 'Steven A. Horne'); // Add a recipient address
+    $mail->addAddress('helenm@helen-mackenzie.co.uk', 'MacKenzie Mortgages Contact Form'); // Add a recipient address
 
     //Content
     $mail->isHTML(true); // Set email format to HTML
