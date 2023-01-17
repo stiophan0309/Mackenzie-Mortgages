@@ -237,6 +237,10 @@ input[type=text],input[type=email], select, textarea {
   }
 
 /* End of Contact Form */
+.fo {
+    text-decoration: none;
+    color: #1761a0;
+}
 
 @media (max-width: 768px) { 
     .main-title {
